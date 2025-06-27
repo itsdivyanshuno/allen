@@ -1,3 +1,7 @@
+![Repo Size](https://img.shields.io/github/repo-size/itsdivyanshuno/allen)
+![Top Language](https://img.shields.io/github/languages/top/itsdivyanshuno/allen)
+![Last Commit](https://img.shields.io/github/last-commit/itsdivyanshuno/allen)
+
 # 📚 Allen Study Material Dashboard
 
 A clean and simple PHP-based web dashboard to upload and view categorized PDF study materials like Foundation, Exercise, Race, and TIM files — organized by subject (Physics, Chemistry, Biology, etc.).
