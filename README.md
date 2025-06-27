@@ -3,8 +3,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/itsdivyanshuno/allen?style=for-the-badge)
 ![Top Language](https://img.shields.io/github/languages/top/itsdivyanshuno/allen?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/itsdivyanshuno/allen?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/itsdivyanshuno/allen?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/itsdivyanshuno/allen?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/itsdivyanshuno/allen?style=for-the-badge)
 
 </div>
