@@ -1,0 +1,55 @@
+// create database allen
+
+//then...
+
+// copy and paste in mysql...
+
+
+
+create table pf (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table pt (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table pr (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table pe (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table cf (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table ct (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table cr (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table ce (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table bf (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table bt (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table br (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table be (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table mf (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table mt (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table mr (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table me (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table ef (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table et (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table er (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table ee (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table sf (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table st (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table sr (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );
+
+create table se (id int(10) not null auto_increment primary key, name varchar(100) unique, location varchar(100) );

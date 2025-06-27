@@ -1,0 +1,31 @@
+// dummy data
+
+INSERT INTO `pf` (`id`, `name`, `location`) VALUES (NULL, 'pf', NULL);
+INSERT INTO `pt` (`id`, `name`, `location`) VALUES (NULL, 'pt', NULL);
+INSERT INTO `pr` (`id`, `name`, `location`) VALUES (NULL, 'pr', NULL);
+INSERT INTO `pe` (`id`, `name`, `location`) VALUES (NULL, 'pe', NULL);
+
+INSERT INTO `cf` (`id`, `name`, `location`) VALUES (NULL, 'cf', NULL);
+INSERT INTO `ct` (`id`, `name`, `location`) VALUES (NULL, 'ct', NULL);
+INSERT INTO `cr` (`id`, `name`, `location`) VALUES (NULL, 'cr', NULL);
+INSERT INTO `ce` (`id`, `name`, `location`) VALUES (NULL, 'ce', NULL);
+
+INSERT INTO `bf` (`id`, `name`, `location`) VALUES (NULL, 'bf', NULL);
+INSERT INTO `bt` (`id`, `name`, `location`) VALUES (NULL, 'bt', NULL);
+INSERT INTO `br` (`id`, `name`, `location`) VALUES (NULL, 'br', NULL);
+INSERT INTO `be` (`id`, `name`, `location`) VALUES (NULL, 'be', NULL);
+
+INSERT INTO `mf` (`id`, `name`, `location`) VALUES (NULL, 'mf', NULL);
+INSERT INTO `mt` (`id`, `name`, `location`) VALUES (NULL, 'mt', NULL);
+INSERT INTO `mr` (`id`, `name`, `location`) VALUES (NULL, 'mr', NULL);
+INSERT INTO `me` (`id`, `name`, `location`) VALUES (NULL, 'me', NULL);
+
+INSERT INTO `ef` (`id`, `name`, `location`) VALUES (NULL, 'ef', NULL);
+INSERT INTO `et` (`id`, `name`, `location`) VALUES (NULL, 'et', NULL);
+INSERT INTO `er` (`id`, `name`, `location`) VALUES (NULL, 'er', NULL);
+INSERT INTO `ee` (`id`, `name`, `location`) VALUES (NULL, 'ee', NULL);
+
+INSERT INTO `sf` (`id`, `name`, `location`) VALUES (NULL, 'sf', NULL);
+INSERT INTO `st` (`id`, `name`, `location`) VALUES (NULL, 'st', NULL);
+INSERT INTO `sr` (`id`, `name`, `location`) VALUES (NULL, 'sr', NULL);
+INSERT INTO `se` (`id`, `name`, `location`) VALUES (NULL, 'se', NULL);

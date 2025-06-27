@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+    <link rel="stylesheet" href="home-style.css">
+</head>
+<body>
+    <header>
+        <div class="nav">
+            <div class="nav-left">
+                <div class="nav-logo">
+                    <img src="./assets/nav-logo.svg" alt="nav-logo" width="20px">
+                </div>
+                <div class="nav-name">
+                    <span>Divyansh</span>
+                </div>
+            </div>
+            <div class="nav-middle">
+                <div class="nav-links"><a href="#home">Home</a></div>
+                <div class="nav-links"><a href="#skills">Skills</a></div>
+                <div class="nav-links"><a href="#experiences">Experiences</a></div>
+                <div class="nav-links"><a href="#about-me">About Me</a></div>
+                <div class="nav-links"><a href="#contact-me">Contact Me</a></div>
+            </div>
+            <div class="nav-right">
+                <div class="nav-buttons">LinkedIn</div>
+                <div class="nav-buttons">GitHub</div>
+                <div class="nav-buttons">Code</div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="link-sections"><a href="#home">home</a></section>
+        <section id="skills" class="link-sections"><a href="#skills">skills</a></section>
+        <section id="experiences" class="link-sections"><a href="#experiences">experience</a></section>
+        <section id="about-me" class="link-sections"><a href="#about-me">about-me</a></section>
+        <section id="contact-me" class="link-sections"><a href="#contact-me">contact-me</a></section>
+    </main>
+
+    <footer>
+        this is the footer
+    </footer>
+</body>
+</html>
