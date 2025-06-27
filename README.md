@@ -17,16 +17,16 @@ A clean and simple PHP-based web dashboard to upload and view categorized PDF st
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshots/homePage.png)
+![Homepage](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshorts/homePage.png)
 
 ### 🔐 Password Box
-![Password Box](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshots/password-box.png)
+![Password Box](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshorts/password-box.png)
 
 ### 📋 Table View
-![Table Content View](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshots/table-content-view.png)
+![Table Content View](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshorts/table-content-view.png)
 
 ### ✅ Upload Success Message
-![Upload Message](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshots/uploaded-msg.png)
+![Upload Message](https://raw.githubusercontent.com/itsdivyanshuno/allen/master/screenshorts/uploaded-msg.png)
 
 ---
 
